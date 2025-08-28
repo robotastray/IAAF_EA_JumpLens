@@ -278,7 +278,8 @@ Please note that the metrics were not measured from a real competition, the data
     "foreign_table_name": "JUMPLENS_COMPETITIONS_DETAILS",
     "foreign_column_name": "meeting_id"
   }
-]```
+]
+```
 
 
 
