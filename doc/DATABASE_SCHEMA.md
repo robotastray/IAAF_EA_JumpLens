@@ -215,6 +215,72 @@ Please note that the metrics were not measured from a real competition, the data
 | UY_mps               | double precision         | YES         | null              |
 
 
+## Foreign Keys
+
+```[
+  {
+    "table_name": "JUMPLENS_ATHLETES_PERFORMANCE",
+    "column_name": "athlete_id",
+    "foreign_table_name": "JUMPLENS_ATHLETES",
+    "foreign_column_name": "athlete_id"
+  },
+  {
+    "table_name": "JUMPLENS_ATHLETES_PERFORMANCE",
+    "column_name": "meeting_id",
+    "foreign_table_name": "JUMPLENS_COMPETITIONS_DETAILS",
+    "foreign_column_name": "meeting_id"
+  },
+  {
+    "table_name": "JUMPLENS_PHASE_DISTANCES",
+    "column_name": "athlete_id",
+    "foreign_table_name": "JUMPLENS_ATHLETES",
+    "foreign_column_name": "athlete_id"
+  },
+  {
+    "table_name": "JUMPLENS_PHASE_DISTANCES",
+    "column_name": "meeting_id",
+    "foreign_table_name": "JUMPLENS_COMPETITIONS_DETAILS",
+    "foreign_column_name": "meeting_id"
+  },
+  {
+    "table_name": "JUMPLENS_COM_VELOCITY_CHANGES",
+    "column_name": "athlete_id",
+    "foreign_table_name": "JUMPLENS_ATHLETES",
+    "foreign_column_name": "athlete_id"
+  },
+  {
+    "table_name": "JUMPLENS_AVG_CONTACT_AND_FLIGHT_LENGTH",
+    "column_name": "athlete_id",
+    "foreign_table_name": "JUMPLENS_ATHLETES",
+    "foreign_column_name": "athlete_id"
+  },
+  {
+    "table_name": "JUMPLENS_AVG_CONTACT_AND_FLIGHT_LENGTH",
+    "column_name": "meeting_id",
+    "foreign_table_name": "JUMPLENS_COMPETITIONS_DETAILS",
+    "foreign_column_name": "meeting_id"
+  },
+  {
+    "table_name": "JUMPLENS_COM_VELOCITY_CHANGES",
+    "column_name": "meeting_id",
+    "foreign_table_name": "JUMPLENS_COMPETITIONS_DETAILS",
+    "foreign_column_name": "meeting_id"
+  },
+  {
+    "table_name": "JUMPLENS_TAKEOFF_VELOCITIES",
+    "column_name": "athlete_id",
+    "foreign_table_name": "JUMPLENS_ATHLETES",
+    "foreign_column_name": "athlete_id"
+  },
+  {
+    "table_name": "JUMPLENS_TAKEOFF_VELOCITIES",
+    "column_name": "meeting_id",
+    "foreign_table_name": "JUMPLENS_COMPETITIONS_DETAILS",
+    "foreign_column_name": "meeting_id"
+  }
+]```
+
+
 
 
 
