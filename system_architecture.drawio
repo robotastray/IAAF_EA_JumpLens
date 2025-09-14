@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.2.1">
+  <diagram name="Page-1" id="wUtA3413zEwDnDfHv2xh">
+    <mxGraphModel dx="947" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rpj4GmycmHNuaaUiwoZ4-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="290" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpj4GmycmHNuaaUiwoZ4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpj4GmycmHNuaaUiwoZ4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpj4GmycmHNuaaUiwoZ4-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="890" y="290" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rpj4GmycmHNuaaUiwoZ4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#FFB366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="360" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
